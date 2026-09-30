@@ -1,7 +1,5 @@
 import streamlit as st
-import pandas as pd
-from decimal import Decimal, ROUND_HALF_UP
-
+st.image("logo.jpg")
 # =========================================================
 # CẤU HÌNH TRANG
 # =========================================================
